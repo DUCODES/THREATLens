@@ -1,12 +1,12 @@
-# THREATLens
+# AegisIntel
 
- ## AI-Powered Cyber Threat Intelligence & Third-Party Risk Management Platform
+ ## Cyber Threat Intelligence & Third-Party Risk Management Platform
 
-THREATLens is a comprehensive cybersecurity risk management platform designed to help organizations proactively identify, analyze, and reduce cyber risks across their internal environments and third-party ecosystem.
+AegisIntel is a comprehensive cybersecurity risk management platform designed to help organizations proactively identify, analyze, and reduce cyber risks across their internal environments and third-party ecosystem.
 
 The platform combines **Cyber Threat Intelligence (CTI)**, **MITRE ATT&CK-based threat analysis**, **vendor security assessments**, and **automated risk management workflows** into a unified solution that enables security teams, risk professionals, and executives to make informed security decisions.
 
-Modern organizations face increasing cyber risks from sophisticated threat actors, ransomware groups, supply chain compromises, vulnerable vendors, and inadequate security controls. THREATLens addresses these challenges by transforming complex security data into actionable intelligence, measurable risk insights, and structured remediation processes.
+Modern organizations face increasing cyber risks from sophisticated threat actors, ransomware groups, supply chain compromises, vulnerable vendors, and inadequate security controls. AegisIntel addresses these challenges by transforming complex security data into actionable intelligence, measurable risk insights, and structured remediation processes.
 
 ## Overview
 
@@ -18,7 +18,7 @@ Organizations today require more than traditional security monitoring. They need
 * Compliance gaps against recognized cybersecurity frameworks.
 * Business impact associated with cyber vulnerabilities.
 
-THREATLens provides a centralized platform where security teams can:
+AegisIntel provides a centralized platform where security teams can:
 
 * Research and track cyber threats.
 * Analyze threat actor behavior.
