@@ -3,7 +3,7 @@
 
 ## Overview
 
-THREATLens takes the security of its platform, users, contributors, and customers seriously.
+AegisIntel takes the security of its platform, users, contributors, and customers seriously.
 
 As a cybersecurity risk management platform handling threat intelligence, security assessments, vendor risk information, and potentially sensitive organizational data, security is a fundamental part of our development process.
 
@@ -11,12 +11,12 @@ We appreciate the efforts of security researchers, developers, and the wider cyb
 
 
 ### Supported Versions
-Security updates are provided for actively maintained versions of THREATLens.
+Security updates are provided for actively maintained versions of AegisIntel.
 
 Users are encouraged to always upgrade to the latest stable release to receive security improvements and vulnerability fixes.
 
 ### Reporting a Security Vulnerability
-If you discover a potential security vulnerability in THREATLens, please report it responsibly.
+If you discover a potential security vulnerability in AegisIntel, please report it responsibly.
 
 Do not publicly disclose the vulnerability before we have investigated and addressed the issue.
 
@@ -59,7 +59,7 @@ Security researchers are expected to:
 - Avoid denial-of-service testing.
 - Maintain confidentiality until remediation is complete.
 
-THREATLens commits to:
+AegisIntel commits to:
 
 - Acknowledge reports within a reasonable timeframe.
 - Investigate reported issues.
@@ -67,7 +67,6 @@ THREATLens commits to:
 - Credit researchers who responsibly disclose vulnerabilities.
 
 # Scope of Security Testing
-
 Security testing may include:
 
 ## Included
@@ -82,7 +81,6 @@ Security testing may include:
 - Business logic vulnerabilities.
 
 ## Excluded
-
 The following activities are not permitted:
 
 - Social engineering against THREATLens employees.
@@ -93,7 +91,7 @@ The following activities are not permitted:
 - Testing against third-party systems.
 
 # Security Development Practices
-THREATLens follows security-focused development practices including:
+AegisIntel follows security-focused development practices including:
 
 - Secure software development lifecycle (SSDLC).
 - Code review requirements.
@@ -105,7 +103,7 @@ THREATLens follows security-focused development practices including:
 - Secure configuration management.
 
 # Data Protection Principles
-THREATLens prioritizes:
+AegisIntel prioritizes:
 
 - Confidentiality of customer information.
 - Integrity of security assessments.
@@ -121,11 +119,10 @@ Security fixes may be released through:
 - Dependency updates.
 - Configuration changes.
 
-Users should monitor official THREATLens communication channels for important security announcements.
+Users should monitor official AegisIntel communication channels for important security announcements.
 
 # Acknowledgements
-
-We appreciate security researchers and contributors who help improve THREATLens security.
+We appreciate security researchers and contributors who help improve AegisIntel security.
 
 Responsible disclosure helps create a safer cybersecurity ecosystem.oduce the issue.
 - Proof-of-concept (if available).
@@ -161,7 +158,7 @@ Security researchers are expected to:
 - Avoid denial-of-service testing.
 - Maintain confidentiality until remediation is complete.
 
-THREATLens commits to:
+AegisIntel commits to:
 
 - Acknowledge reports within a reasonable timeframe.
 - Investigate reported issues.
@@ -191,7 +188,7 @@ The following activities are not permitted:
 - Testing against third-party systems.
 
 ### Security Development Practices
-THREATLens follows security-focused development practices including:
+AegisIntel follows security-focused development practices including:
 
 - Secure software development lifecycle (SSDLC).
 - Code review requirements.
@@ -217,10 +214,10 @@ Security fixes may be released through:
 - Emergency security patches.
 - Dependency updates.
 - Configuration changes.
-Users should monitor official THREATLens communication channels for important security announcements.
+Users should monitor official AegisIntel communication channels for important security announcements.
 
 # Acknowledgements
 
-We appreciate security researchers and contributors who help improve THREATLens security.
+We appreciate security researchers and contributors who help improve AegisIntel security.
 
 Responsible disclosure helps create a safer cybersecurity ecosystem.
