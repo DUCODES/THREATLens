@@ -1,16 +1,14 @@
 
-## Contributing to THREATLens
+## Contributing to AegisIntel
 
-Thank you for your interest in contributing to THREATLens.
+Thank you for your interest in contributing to AegisIntel.
 
-THREATLens is a cybersecurity platform designed to help organizations manage cyber threats, third-party risks, security assessments, and compliance workflows.
+AegisIntel is a cybersecurity platform designed to help organizations manage cyber threats, third-party risks, security assessments, and compliance workflows.
 
 We welcome contributions from developers, cybersecurity professionals, researchers, designers, and documentation contributors who share our goal of improving cybersecurity capabilities.
 
 ### Code of Conduct
-
 All contributors are expected to maintain professional and respectful behavior.
-
 Contributors must:
 
 - Communicate respectfully.
@@ -20,7 +18,6 @@ Contributors must:
 - Follow responsible security practices.
 
 ### Ways to Contribute
-
 There are several ways to contribute:
 
 ### Software Development
@@ -60,7 +57,6 @@ Examples:
 - Reporting security concerns.
 
 ### Development Workflow
-
 The recommended contribution workflow:
 Fork Repository
        ↓
@@ -219,7 +215,6 @@ Date:
 2026-01-01
 
 # Adding New Security Controls
-
 New security controls should include:
 
 - Control objective.
@@ -236,7 +231,6 @@ Supported mappings may include:
 - MITRE ATT&CK.
 
 # Reporting Bugs
-
 Non-security bugs should be submitted through GitHub Issues.
 Include:
 
@@ -263,7 +257,7 @@ Pull requests may be reviewed for:
 Security-sensitive changes may require additional review.
 
 # License Agreement
-By contributing to THREATLens, contributors agree that their contributions may be used according to the project's licensing terms.
+By contributing to AegisIntel, contributors agree that their contributions may be used according to the project's licensing terms.
 See:
 
 LICENSE
@@ -272,4 +266,4 @@ for applicable licensing information.
 # Thank You
 
 Every contribution helps improve cybersecurity capabilities and enables organizations to better understand and manage cyber risk.
-Thank you for helping build THREATLens.
+Thank you for helping build AegisIntel.
